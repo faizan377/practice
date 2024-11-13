@@ -1,4 +1,4 @@
 # practice
 This is my first Git repository
 <br>
-Author : Faizan Haidar
+Author : Faizan Haidar(CSE)
